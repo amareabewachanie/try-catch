@@ -1,6 +1,6 @@
 {
   "name": "try_catch_req",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module to make clear and succinct a redundant async/await try-catchs in using promises in node routes.",
   "main": "index.js",
   "scripts": {
