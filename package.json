@@ -21,8 +21,8 @@
     "then",
     "callback"
   ],
-  "author": "Amare Abewa",
-  "license": "MIT",
+  "author": "Amare Abewa <amare.abewa@gmail.com> (https://github.com/amareabewachanie)",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/amareabewachanie/try-catch/issues"
   },
@@ -37,5 +37,8 @@
     "coveragePathIgnorePatterns": [
       "/node_modules/"
     ]
+  },
+  "dependencies": {
+    "try_catch_req": "^1.1.0"
   }
 }
